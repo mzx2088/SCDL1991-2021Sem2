@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55347aaa13fec294a92ff4d6c713b851
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moleculePrefab: {instanceID: 0}
+  - collide1Prefab: {instanceID: 0}
+  - intermediatePrefab: {instanceID: 0}
+  - collide2Prefab: {instanceID: 0}
+  - productPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
